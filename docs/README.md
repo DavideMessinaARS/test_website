@@ -1,11 +1,33 @@
-# Headline
 
-> An awesome project.
 
-```mermaid
-graph LR
-    A --- B
-    B-->C[fa:fa-ban forbidden]
-    B-->D(fa:fa-spinner)
-    click A "http://localhost:3000/#/A";
-```
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+	 <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
+    </head>
+
+<body>
+ # Headline
+
+ > An awesome project.
+
+ <div class="mermaid">graph LR
+ A--&gt;B
+ click A "http://localhost:3000/#/A"
+ </div>
+	
+</body>
+<script>
+var config = {
+    startOnLoad:true,
+    theme: 'forest',
+    flowchart:{
+            useMaxWidth:false,
+            htmlLabels:true
+        }
+};
+mermaid.initialize(config);
+window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+</script>
+
+</html>
