@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
    <head>
@@ -7,14 +5,13 @@
     </head>
 
 <body>
- # Headline
+ <pre><code class="language-mermaid">graph LR
+A--&gt;B
+</code></pre>
 
- > An awesome project.
-
- <div class="mermaid">graph LR
- A--&gt;B
- click A "http://localhost:3000/#/A"
- </div>
+<div class="mermaid">graph LR
+A--&gt;B
+</div>
 	
 </body>
 <script>
