@@ -1,67 +1,10 @@
-
-
-<!DOCTYPE html>
-<html lang="en">
-   <head>
-	<script src="https://unpkg.com/mermaid@8.0.0/dist/mermaid.min.js"></script>
-	<script>
-	const mermaiding = function() {
-    		const elements = document.querySelectorAll("pre>code.language-mermaid");
-    		for (let i = 0; i < elements.length; i++) {
-        		const e = elements[i];
-        		const pre = e.parentElement;
-        		const replace = function(graph) {
-            			const elem = document.createElement('div');
-            			elem.innerHTML = graph;
-            			elem.className = 'mermaid';
-            			elem.setAttribute('data-processed', 'true');
-            			pre.parentElement.replaceChild(elem, pre);
-       			}
-        		mermaid.mermaidAPI.render('id' + i, e.textContent, replace);
-	    }
-}
-
-if (document.readyState == 'interactive' || document.readyState == 'complete') {
-    mermaiding();
-}else{
-    document.addEventListener("DOMContentLoaded", mermaiding);
-}
-</script>
+<html>
+<head>
+<title>Untitled Diagram.html</title>
+<meta charset="utf-8"/>
 </head>
-
 <body>
-# Headline
-
- > An awesome project.
-
-
- <pre><code class="language-mermaid">graph LR
-A--&gt;B
-</code></pre>
-
-<div class="mermaid">graph LR
-A--&gt;B
-</div>
-	
-```mermaid
-graph TD
-  A --> B
-  C --> D
-```
-	
+<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;xml&quot;:&quot;&lt;mxfile host=\&quot;Electron\&quot; modified=\&quot;2021-02-05T16:14:24.436Z\&quot; agent=\&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/14.1.8 Chrome/87.0.4280.88 Electron/11.1.1 Safari/537.36\&quot; etag=\&quot;2WYLITTxph2gGQebjJ7a\&quot; version=\&quot;14.1.8\&quot; type=\&quot;device\&quot;&gt;&lt;diagram id=\&quot;31Tc6cqrFVBrLraUs0G6\&quot; name=\&quot;Page-1\&quot;&gt;7ZtZj5swEMc/Da8rwJDjMcfeqrbSqmr7VHnBBbYEp8a5+ulrwAQbZ1sUcSVCWil4PHbs3/x3BpxEA4vV/p7Atf8JuyjUTN3da2CpmaahT0bsJbEcMsvE4gaPBC53KgyvwR+Uj+TWTeCiWHKkGIc0WMtGB0cRcqhkg4Tgnez2E4fyu66hhxTDqwND1fo1cKnPd2Hrhf0BBZ6fv7Oh854VzJ25Ifahi3eCCdxqYEEwptnVar9AYQIv55KNu/ug97gwgiJaZcAsG7CF4YbvzcHbH4ybg9aUL5Ee8n0TvIlclAzVNTDf+QFFr2voJL07Fmlm8+kqZC2DXapL4avbIkLRXjDxpd0jvEKUHJhL3jvimLhOjJzwrqBu5Ch9gXg+DvJAe8epCxbsguM4jWauoHnpDRizQy4LhUvnOEaTDnks+89j0iKO2/7hsMzucNz1D0c5q7aJ475/OMxpdzge+ofDtrvD8dh/HK2WlieFh4PdLSSdUyln1FapPCtUXLLx+nNvNu2QjW4ocLoHIvOwR23yMPvHw5B5WOM2eYDe8wDTNnlY/eNR+n8BRps87N7zMEGLPGKK1hVSKhsUrGPUCo7xuKSPqvVlUhOPCim1TR5W6WEXVK0vZ/D4EiPy8vaenCmaegjfUCgCCIPoF78hgRRqYAYdGuCIzfEeJy8Lbcw2PPq9SU735llnXBjYAM2eSz4Uex5jKrmwrYguDltcrHjYgsdM6E1Ob/SiLXhp9lIbp3/ZRbojMexAiAJXRUcRVzJk1Qp6RsRZUwh6JyLw2QbCdBOS139EcJ4Ckt68jVkMA3qQpk1yjTyBg0NMFP0d24QViqLznwKzeisws8EUe0JgStZNP7OoUoYid5a4spYTwjgOHBkN2gf0m3D9PanhNzZvLfe8pKeNQ96I2Pq/iQ1hVNIshqWtfNyHYYjxhjhIvt2gkHiIlqRg6siVPodR4yXEwz4RjtxGUAhpsEXSOk7FiL/DZxxEtJCDDWQ5WOU7i2xLfFQRaXWiUqmyjNJEGQdlolQyx21XKtSpZKpU6ouTDDgtGdAryZilM1YLnCkZUH46KqeYmiVT4fnw8iRjXYJkLjbLVHiErioZ/WZsC6oxztFMHYqZD2WpQcFUOGO4vByTfw+lJBlzkEwdkhn1STJGLYIxh6LUoGDGdRalc2pSkVZqq0qzoSo1qJhJNymmUuSFMA8FppHoT68wXzwNimlQMfn0bUumUuifh1LRZOiv8SxWSA1l2RiDbGqRjXmlsvngSHYoNPXIpsYz2doLzeN1xlj5ksW0rhizZvHznsy9+JEUuP0L&lt;/diagram&gt;&lt;/mxfile&gt;&quot;,&quot;toolbar&quot;:&quot;pages zoom layers lightbox&quot;,&quot;page&quot;:0}"></div>
+<script type="text/javascript" src="https://app.diagrams.net/js/viewer-static.min.js"></script>
 </body>
-<script>
-var config = {
-    startOnLoad:true,
-    theme: 'forest',
-    flowchart:{
-            useMaxWidth:false,
-            htmlLabels:true
-        }
-};
-mermaid.initialize(config);
-window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
-</script>
-
 </html>
-
