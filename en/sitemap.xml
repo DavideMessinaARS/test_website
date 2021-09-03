@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://davidemessinaars.github.io/test_website/basics/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/basics/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -17,10 +17,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/basics/"
+                href="https://davidemessinaars.github.io/test_website/en/basics/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/cont/pages/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/cont/pages/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -30,12 +30,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/cont/pages/"
+                href="https://davidemessinaars.github.io/test_website/en/cont/pages/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/basics/test-table/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/basics/test-table/</loc>
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/cont/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/cont/</loc>
     <lastmod>2020-06-01T13:31:12+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -45,10 +45,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/cont/"
+                href="https://davidemessinaars.github.io/test_website/en/cont/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/cont/archetypes/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/cont/archetypes/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -57,10 +57,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/cont/archetypes/"
+                href="https://davidemessinaars.github.io/test_website/en/cont/archetypes/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/basics/requirements/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/basics/requirements/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -69,10 +69,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/basics/requirements/"
+                href="https://davidemessinaars.github.io/test_website/en/basics/requirements/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/cont/markdown/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/cont/markdown/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -82,10 +82,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/cont/markdown/"
+                href="https://davidemessinaars.github.io/test_website/en/cont/markdown/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/shortcodes/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/shortcodes/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -95,10 +95,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/shortcodes/"
+                href="https://davidemessinaars.github.io/test_website/en/shortcodes/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/basics/installation/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/basics/installation/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -107,13 +107,13 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/basics/installation/"
+                href="https://davidemessinaars.github.io/test_website/en/basics/installation/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/cont/syntaxhighlight/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/cont/syntaxhighlight/</loc>
     <lastmod>2020-06-01T13:31:12+01:00</lastmod>
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/basics/configuration/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/basics/configuration/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -123,10 +123,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/basics/configuration/"
+                href="https://davidemessinaars.github.io/test_website/en/basics/configuration/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/cont/menushortcuts/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/cont/menushortcuts/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -136,10 +136,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/cont/menushortcuts/"
+                href="https://davidemessinaars.github.io/test_website/en/cont/menushortcuts/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/basics/style-customization/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/basics/style-customization/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -149,12 +149,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/basics/style-customization/"
+                href="https://davidemessinaars.github.io/test_website/en/basics/style-customization/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/cont/icons/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/cont/icons/</loc>
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/cont/i18n/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/cont/i18n/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -164,10 +164,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/cont/i18n/"
+                href="https://davidemessinaars.github.io/test_website/en/cont/i18n/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/cont/tags/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/cont/tags/</loc>
     <lastmod>2018-11-29T08:41:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -177,10 +177,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/cont/tags/"
+                href="https://davidemessinaars.github.io/test_website/en/cont/tags/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/categories/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -195,13 +195,13 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/categories/"
+                href="https://davidemessinaars.github.io/test_website/en/categories/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -216,25 +216,25 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/"
+                href="https://davidemessinaars.github.io/test_website/en/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/tags/plot/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/post/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/post/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/categories/r/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/categories/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/tags/r-markdown/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/tags/regression/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/tags/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/tags/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -249,10 +249,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/tags/"
+                href="https://davidemessinaars.github.io/test_website/en/tags/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/tags/documentation/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/tags/documentation/</loc>
     <lastmod>2018-11-29T08:41:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -262,10 +262,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/tags/documentation/"
+                href="https://davidemessinaars.github.io/test_website/en/tags/documentation/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/tags/tutorial/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/tags/tutorial/</loc>
     <lastmod>2018-11-29T08:41:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -275,10 +275,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/tags/tutorial/"
+                href="https://davidemessinaars.github.io/test_website/en/tags/tutorial/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/shortcodes/attachments/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/shortcodes/attachments/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -287,10 +287,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/shortcodes/attachments/"
+                href="https://davidemessinaars.github.io/test_website/en/shortcodes/attachments/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/shortcodes/button/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/shortcodes/button/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -299,10 +299,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/shortcodes/button/"
+                href="https://davidemessinaars.github.io/test_website/en/shortcodes/button/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/shortcodes/children/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/shortcodes/children/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -311,10 +311,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/shortcodes/children/"
+                href="https://davidemessinaars.github.io/test_website/en/shortcodes/children/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/credits/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/credits/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -323,10 +323,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/credits/"
+                href="https://davidemessinaars.github.io/test_website/en/credits/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/shortcodes/expand/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/shortcodes/expand/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -335,10 +335,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/shortcodes/expand/"
+                href="https://davidemessinaars.github.io/test_website/en/shortcodes/expand/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/shortcodes/mermaid/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/shortcodes/mermaid/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -347,10 +347,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/shortcodes/mermaid/"
+                href="https://davidemessinaars.github.io/test_website/en/shortcodes/mermaid/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/shortcodes/notice/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/shortcodes/notice/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -359,10 +359,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/shortcodes/notice/"
+                href="https://davidemessinaars.github.io/test_website/en/shortcodes/notice/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/shortcodes/children/children-1/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/shortcodes/children/children-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -371,10 +371,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/shortcodes/children/children-1/"
+                href="https://davidemessinaars.github.io/test_website/en/shortcodes/children/children-1/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/shortcodes/children/children-1/children-1-1/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/shortcodes/children/children-1/children-1-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -383,10 +383,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/shortcodes/children/children-1/children-1-1/"
+                href="https://davidemessinaars.github.io/test_website/en/shortcodes/children/children-1/children-1-1/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/shortcodes/children/children-1/children-1-1/children-1-1-1/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/shortcodes/children/children-1/children-1-1/children-1-1-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -395,10 +395,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/shortcodes/children/children-1/children-1-1/children-1-1-1/"
+                href="https://davidemessinaars.github.io/test_website/en/shortcodes/children/children-1/children-1-1/children-1-1-1/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -407,10 +407,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/"
+                href="https://davidemessinaars.github.io/test_website/en/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -419,10 +419,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/"
+                href="https://davidemessinaars.github.io/test_website/en/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/shortcodes/children/children-2/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/shortcodes/children/children-2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -431,10 +431,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/shortcodes/children/children-2/"
+                href="https://davidemessinaars.github.io/test_website/en/shortcodes/children/children-2/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/shortcodes/children/children-3/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/shortcodes/children/children-3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -443,10 +443,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/shortcodes/children/children-3/"
+                href="https://davidemessinaars.github.io/test_website/en/shortcodes/children/children-3/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/shortcodes/children/children-4/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/shortcodes/children/children-4/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -455,10 +455,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/shortcodes/children/children-4/"
+                href="https://davidemessinaars.github.io/test_website/en/shortcodes/children/children-4/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/shortcodes/children/test/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/shortcodes/children/test/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -467,10 +467,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/shortcodes/children/test/"
+                href="https://davidemessinaars.github.io/test_website/en/shortcodes/children/test/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/shortcodes/children/children-2/test3/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/shortcodes/children/children-2/test3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -479,10 +479,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/shortcodes/children/children-2/test3/"
+                href="https://davidemessinaars.github.io/test_website/en/shortcodes/children/children-2/test3/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/showcase/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/showcase/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -491,10 +491,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/showcase/"
+                href="https://davidemessinaars.github.io/test_website/en/showcase/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/shortcodes/siteparam/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/shortcodes/siteparam/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -503,11 +503,11 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/shortcodes/siteparam/"
+                href="https://davidemessinaars.github.io/test_website/en/shortcodes/siteparam/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/shortcodes/tabs/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/shortcodes/tabs/</loc>
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/categories/table/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/categories/table/</loc>
   </url>
 </urlset>
