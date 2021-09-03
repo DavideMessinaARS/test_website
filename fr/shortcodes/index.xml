@@ -74,7 +74,7 @@ Une notice de type info
 Par exemple, dans ce site, le paramètre editURL est utilisé dans le fichier config.toml
 [params] editURL = &amp;#34;https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/&amp;#34; Utilisez le shortcode siteparam pour affichier sa valeur.
 Valeur de `editURL` : {{% siteparam &amp;quot;editURL&amp;quot; %}} s&amp;rsquo;affiche comme
-Valeur de editURL : https://github.com/DavideMessinaARS/test_website/tree/main/</description>
+Valeur de editURL :</description>
     </item>
     
   </channel>
