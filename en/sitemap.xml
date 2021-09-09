@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://davidemessinaars.github.io/test_website/en/basics/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://davidemessinaars.github.io/test_website/fr/basics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://davidemessinaars.github.io/test_website/zh/basics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/en/basics/"
-                />
-  </url><url>
     <loc>https://davidemessinaars.github.io/test_website/en/cont/pages/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
@@ -33,7 +15,40 @@
                 href="https://davidemessinaars.github.io/test_website/en/cont/pages/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/en/basics/test-table/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/en/data-models/code-counts/</loc>
+  </url><url>
+    <loc>https://davidemessinaars.github.io/test_website/en/data-models/dashboard/</loc>
+  </url><url>
+    <loc>https://davidemessinaars.github.io/test_website/en/data-models/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://davidemessinaars.github.io/test_website/fr/data-models/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://davidemessinaars.github.io/test_website/zh/data-models/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://davidemessinaars.github.io/test_website/en/data-models/"
+                />
+  </url><url>
+    <loc>https://davidemessinaars.github.io/test_website/en/data-models/descriptives-study-population/</loc>
+  </url><url>
+    <loc>https://davidemessinaars.github.io/test_website/en/data-models/descriptives-study-population-at-vaccination/</loc>
+  </url><url>
+    <loc>https://davidemessinaars.github.io/test_website/en/data-models/doses-of-vaccination/</loc>
+  </url><url>
+    <loc>https://davidemessinaars.github.io/test_website/en/data-models/flowcharts/</loc>
+  </url><url>
+    <loc>https://davidemessinaars.github.io/test_website/en/data-models/ir-benefits/</loc>
+  </url><url>
+    <loc>https://davidemessinaars.github.io/test_website/en/data-models/main-datasets/</loc>
+  </url><url>
+    <loc>https://davidemessinaars.github.io/test_website/en/data-models/persontime-benefits/</loc>
   </url><url>
     <loc>https://davidemessinaars.github.io/test_website/en/cont/</loc>
     <lastmod>2020-06-01T13:31:12+01:00</lastmod>
@@ -58,18 +73,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://davidemessinaars.github.io/test_website/en/cont/archetypes/"
-                />
-  </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/en/basics/requirements/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://davidemessinaars.github.io/test_website/fr/basics/requirements/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/en/basics/requirements/"
                 />
   </url><url>
     <loc>https://davidemessinaars.github.io/test_website/en/cont/markdown/</loc>
@@ -98,33 +101,8 @@
                 href="https://davidemessinaars.github.io/test_website/en/shortcodes/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/en/basics/installation/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://davidemessinaars.github.io/test_website/fr/basics/installation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/en/basics/installation/"
-                />
-  </url><url>
     <loc>https://davidemessinaars.github.io/test_website/en/cont/syntaxhighlight/</loc>
     <lastmod>2020-06-01T13:31:12+01:00</lastmod>
-  </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/en/basics/configuration/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://davidemessinaars.github.io/test_website/fr/basics/configuration/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/en/basics/configuration/"
-                />
   </url><url>
     <loc>https://davidemessinaars.github.io/test_website/en/cont/menushortcuts/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
@@ -137,19 +115,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://davidemessinaars.github.io/test_website/en/cont/menushortcuts/"
-                />
-  </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/en/basics/style-customization/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://davidemessinaars.github.io/test_website/fr/basics/style-customization/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/en/basics/style-customization/"
                 />
   </url><url>
     <loc>https://davidemessinaars.github.io/test_website/en/cont/icons/</loc>
@@ -325,6 +290,10 @@
                 hreflang="en"
                 href="https://davidemessinaars.github.io/test_website/en/credits/"
                 />
+  </url><url>
+    <loc>https://davidemessinaars.github.io/test_website/en/tags/d4/</loc>
+  </url><url>
+    <loc>https://davidemessinaars.github.io/test_website/en/categories/data-model/</loc>
   </url><url>
     <loc>https://davidemessinaars.github.io/test_website/en/shortcodes/expand/</loc>
     <xhtml:link
@@ -507,7 +476,5 @@
                 />
   </url><url>
     <loc>https://davidemessinaars.github.io/test_website/en/shortcodes/tabs/</loc>
-  </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/en/categories/table/</loc>
   </url>
 </urlset>

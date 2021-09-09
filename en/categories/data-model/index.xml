@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Model on Documentation for Hugo Learn Theme</title>
+    <link>https://davidemessinaars.github.io/test_website/en/categories/data-model/</link>
+    <description>Recent content in Data Model on Documentation for Hugo Learn Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="https://davidemessinaars.github.io/test_website/en/categories/data-model/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code counts</title>
+      <link>https://davidemessinaars.github.io/test_website/en/data-models/code-counts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidemessinaars.github.io/test_website/en/data-models/code-counts/</guid>
+      <description>code_counts_in_CDMinstanceBased on population in PERSONS. This table allows inspecting the specific code associated to study variables defined in the CDM instance.{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;Conceptset&#34;:[null],&#34;Code&#34;:[null],&#34;Coding system&#34;:[&#34;ICD9CM, ICD10CM, Read, SNOMED, ICPC, ATC&#34;],&#34;Meaning&#34;:[null],&#34;Count_n&#34;:[null]},&#34;columns&#34;:[{&#34;accessor&#34;:&#34;Conceptset&#34;,&#34;name&#34;:&#34;Conceptset&#34;,&#34;type&#34;:&#34;logical&#34;},{&#34;accessor&#34;:&#34;Code&#34;,&#34;name&#34;:&#34;Code&#34;,&#34;type&#34;:&#34;logical&#34;},{&#34;accessor&#34;:&#34;Coding system&#34;,&#34;name&#34;:&#34;Coding system&#34;,&#34;type&#34;:&#34;character&#34;},{&#34;accessor&#34;:&#34;Meaning&#34;,&#34;name&#34;:&#34;Meaning&#34;,&#34;type&#34;:&#34;logical&#34;},{&#34;accessor&#34;:&#34;Count_n&#34;,&#34;name&#34;:&#34;Count_n&#34;,&#34;type&#34;:&#34;logical&#34;}],&#34;sortable&#34;:false,&#34;searchable&#34;:true,&#34;defaultPageSize&#34;:1,&#34;paginationType&#34;:&#34;numbers&#34;,&#34;showPageInfo&#34;:true,&#34;minRows&#34;:1,&#34;highlight&#34;:true,&#34;bordered&#34;:true,&#34;striped&#34;:true,&#34;style&#34;:{&#34;maxWidth&#34;:650},&#34;height&#34;:&#34;300px&#34;,&#34;dataKey&#34;:&#34;75b78f78c76593a79e913fb858073ee5&#34;,&#34;key&#34;:&#34;75b78f78c76593a79e913fb858073ee5&#34;},&#34;children&#34;:[]},&#34;class&#34;:&#34;reactR_markup&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}code_counts_in_study_population_OUTCOME_YYYYBased on population in D3_study_population, only count first events. This table allows inspecting the specific diagnostic codes associated to observed occurrences of the outcome.{&#34;</description>
+    </item>
+    
+    <item>
+      <title>Dashboard</title>
+      <link>https://davidemessinaars.github.io/test_website/en/data-models/dashboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidemessinaars.github.io/test_website/en/data-models/dashboard/</guid>
+      <description>DOSES_BIRTHCOHORTS{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;Name&#34;:[&#34;Dose&#34;,null,null,&#34;sex&#34;,null,&#34;Birthcohort_persons&#34;,null,null,null,null,null,null,null,&#34;type_vax&#34;,null,null,&#34;week&#34;,&#34;IR_COVID_L1plus&#34;,&#34;lb_COVID_L1plus&#34;,&#34;ub_COVID_L1plus&#34;,&#34;IR_COVID_L2plus&#34;,&#34;lb_COVID_L2plus&#34;,&#34;ub_COVID_L2plus&#34;,&#34;IR_COVID_L3plus&#34;,&#34;lb_COVID_L3plus&#34;,&#34;ub_COVID_L3plus&#34;,&#34;IR_COVID_L4plus&#34;,&#34;lb_COVID_L4plus&#34;,&#34;ub_COVID_L4plus&#34;],&#34;Description&#34;:[null,null,null,null,null,null,null,null,null,null,null,null,null,&#34;type of vaccine&#34;,null,null,null,&#34;incidence rate&#34;,&#34;lower 95% confidence interval bound for the IR&#34;,&#34;upper 95% confidence interval bound for the IR&#34;,&#34;incidence rate&#34;,&#34;lower 95% confidence interval bound for the IR&#34;,&#34;upper 95% confidence interval bound for the IR&#34;,&#34;incidence rate&#34;,&#34;lower 95% confidence interval bound for the IR&#34;,&#34;upper 95% confidence interval bound for the IR&#34;,&#34;incidence rate&#34;,&#34;lower 95% confidence interval bound for the IR&#34;,&#34;upper 95% confidence interval bound for the IR&#34;</description>
+    </item>
+    
+    <item>
+      <title>Descriptives study population</title>
+      <link>https://davidemessinaars.github.io/test_website/en/data-models/descriptives-study-population/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidemessinaars.github.io/test_website/en/data-models/descriptives-study-population/</guid>
+      <description>D4_descriptive_dataset_age_studystartDescriptive of age at January 1, 2020, from all the D3 study_population.{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;Name&#34;:[&#34;Datasource&#34;,&#34;Followup&#34;,&#34;Age_P25&#34;,&#34;Age_P50&#34;,&#34;Age_p75&#34;,&#34;Age_mean&#34;,&#34;Age_min&#34;,&#34;Age_max&#34;],&#34;Description&#34;:[null,&#34;Person days of follow-up summed across all subjects in the study population (study_exit-study_entry)&#34;,&#34;Age at January 1, 2020, 25th percentile of distribution&#34;,&#34;Age at January 1, 2020, 50th percentile of distribution&#34;,&#34;Age at January 1, 2020, 75th percentile of distribution&#34;,&#34;Age at January 1, 2020, mean of distribution&#34;,&#34;Age at January 1, 2020, minimum of distribution&#34;</description>
+    </item>
+    
+    <item>
+      <title>Descriptives study population at vaccination</title>
+      <link>https://davidemessinaars.github.io/test_website/en/data-models/descriptives-study-population-at-vaccination/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidemessinaars.github.io/test_website/en/data-models/descriptives-study-population-at-vaccination/</guid>
+      <description>D4_descriptive_dataset_age_studystartDescriptive of age at January 1, 2020, from all the D3 study_population.{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;Name&#34;:[&#34;Datasource&#34;,&#34;Followup&#34;,&#34;Age_P25&#34;,&#34;Age_P50&#34;,&#34;Age_p75&#34;,&#34;Age_mean&#34;,&#34;Age_min&#34;,&#34;Age_max&#34;],&#34;Description&#34;:[null,&#34;Person days of follow-up summed across all subjects in the study population (study_exit-study_entry)&#34;,&#34;Age at January 1, 2020, 25th percentile of distribution&#34;,&#34;Age at January 1, 2020, 50th percentile of distribution&#34;,&#34;Age at January 1, 2020, 75th percentile of distribution&#34;,&#34;Age at January 1, 2020, mean of distribution&#34;,&#34;Age at January 1, 2020, minimum of distribution&#34;</description>
+    </item>
+    
+    <item>
+      <title>Doses of vaccination</title>
+      <link>https://davidemessinaars.github.io/test_website/en/data-models/doses-of-vaccination/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidemessinaars.github.io/test_website/en/data-models/doses-of-vaccination/</guid>
+      <description>table_QC_dose_derived{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;Name&#34;:[&#34;Datasource&#34;,&#34;N or %&#34;,&#34;Number of doses&#34;,&#34;Missing first doses&#34;,&#34;Missing second doses&#34;,&#34;Discordant first to second&#34;,&#34;Discordant second to first&#34;,&#34;Concordant first doses&#34;,&#34;Concordant second doses&#34;],&#34;Description&#34;:[&#34;Datasource of the data&#34;,&#34;Integer or percentage w.r.t. total&#34;,&#34;Total number of doses&#34;,&#34;Missing - Derived Dose 1&#34;,&#34;Missing - Derived Dose 2&#34;,&#34;Dose 1 - Derived Dose 2&#34;,&#34;Dose 2 - Derived Dose 1&#34;,&#34;Dose 1 - Derived Dose 1&#34;,&#34;Dose 2 - Derived Dose 2&#34;],&#34;Format/Vocabulary&#34;:[null,null,null,null,null,null,null,null,null],&#34;Comments&#34;:[null,null,null,null,null,null,null,null,null]},&#34;columns&#34;:[{&#34;accessor&#34;:&#34;Name&#34;,&#34;name&#34;:&#34;Name&#34;,&#34;type&#34;:&#34;character&#34;},{&#34;accessor&#34;:&#34;Description&#34;,&#34;name&#34;:&#34;Description&#34;,&#34;type&#34;:&#34;character&#34;},{&#34;accessor&#34;:&#34;Format/Vocabulary&#34;,&#34;name&#34;:&#34;Format/Vocabulary&#34;,&#34;type&#34;:&#34;logical&#34;},{&#34;accessor&#34;:&#34;Comments&#34;,&#34;name&#34;:&#34;Comments&#34;,&#34;type&#34;:&#34;logical&#34;}],&#34;sortable&#34;:false,&#34;searchable&#34;:true,&#34;defaultPageSize&#34;:9,&#34;paginationType&#34;:&#34;numbers&#34;,&#34;showPageInfo&#34;:true,&#34;minRows&#34;:1,&#34;highlight&#34;:true,&#34;bordered&#34;:true,&#34;striped&#34;:true,&#34;style&#34;:{&#34;maxWidth&#34;:650},&#34;height&#34;:&#34;300px&#34;,&#34;dataKey&#34;:&#34;b7a1dcc76c7ef6142b816de5878ba834&#34;,&#34;key&#34;:&#34;b7a1dcc76c7ef6142b816de5878ba834&#34;},&#34;children&#34;:[]},&#34;class&#34;:&#34;reactR_markup&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}D4_doses_weeksFrom D3_vaxweeks.</description>
+    </item>
+    
+    <item>
+      <title>Flowcharts</title>
+      <link>https://davidemessinaars.github.io/test_website/en/data-models/flowcharts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidemessinaars.github.io/test_website/en/data-models/flowcharts/</guid>
+      <description>Flowchart_basic_exclusion_criteria{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;Name&#34;:[&#34;A_ sex_or_birth_date_missing&#34;,&#34;B_ Birth_date_aabsurd&#34;,&#34;C_no_observation_period&#34;,&#34;D_ death_before_study_entry&#34;,&#34;E_no_observation_period_including_study_start&#34;,&#34;N&#34;],&#34;Description&#34;:[null,null,null,null,null,null],&#34;Format/Vocabulary&#34;:[&#34;0 = excluded, 1 = included&#34;,&#34;0 = excluded, 1 = included&#34;,&#34;0 = excluded, 1 = included&#34;,&#34;0 = excluded, 1 = included&#34;,&#34;0 = excluded, 1 = included&#34;,null],&#34;Comments&#34;:[null,null,null,null,null,&#34;number of persons in this combination of the criteria&#34;]},&#34;columns&#34;:[{&#34;accessor&#34;:&#34;Name&#34;,&#34;name&#34;:&#34;Name&#34;,&#34;type&#34;:&#34;character&#34;},{&#34;accessor&#34;:&#34;Description&#34;,&#34;name&#34;:&#34;Description&#34;,&#34;type&#34;:&#34;logical&#34;},{&#34;accessor&#34;:&#34;Format/Vocabulary&#34;,&#34;name&#34;:&#34;Format/Vocabulary&#34;,&#34;type&#34;:&#34;character&#34;},{&#34;accessor&#34;:&#34;Comments&#34;,&#34;name&#34;:&#34;Comments&#34;,&#34;type&#34;:&#34;character&#34;}],&#34;sortable&#34;:false,&#34;searchable&#34;:true,&#34;defaultPageSize&#34;:6,&#34;paginationType&#34;:&#34;numbers&#34;,&#34;showPageInfo&#34;:true,&#34;minRows&#34;:1,&#34;highlight&#34;:true,&#34;bordered&#34;:true,&#34;striped&#34;:true,&#34;style&#34;:{&#34;maxWidth&#34;:650},&#34;height&#34;:&#34;300px&#34;,&#34;dataKey&#34;:&#34;16022fcee00f8917da7b13fbae8470d5&#34;,&#34;key&#34;:&#34;16022fcee00f8917da7b13fbae8470d5&#34;},&#34;children&#34;:[]},&#34;class&#34;:&#34;reactR_markup&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}Flowchart_exclusion_criteria{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;Name&#34;:[&#34;A_ insufficient_run_in&#34;,&#34;N&#34;],&#34;Description&#34;:[null,null],&#34;Format/Vocabulary&#34;:[&#34;0 = excluded, 1 = included&#34;,null],&#34;Comments&#34;:[null,&#34;number of person in this combination of the criteria&#34;]},&#34;columns&#34;:[{&#34;accessor&#34;:&#34;Name&#34;,&#34;name&#34;:&#34;Name&#34;,&#34;type&#34;:&#34;character&#34;},{&#34;accessor&#34;:&#34;Description&#34;,&#34;name&#34;:&#34;Description&#34;,&#34;type&#34;:&#34;logical&#34;},{&#34;accessor&#34;:&#34;Format/Vocabulary&#34;,&#34;name&#34;:&#34;Format/Vocabulary&#34;,&#34;type&#34;:&#34;character&#34;},{&#34;accessor&#34;:&#34;Comments&#34;,&#34;name&#34;:&#34;Comments&#34;,&#34;type&#34;:&#34;character&#34;}],&#34;sortable&#34;:false,&#34;searchable&#34;:true,&#34;defaultPageSize&#34;:2,&#34;paginationType&#34;:&#34;numbers&#34;,&#34;showPageInfo&#34;:true,&#34;minRows&#34;:1,&#34;highlight&#34;:true,&#34;bordered&#34;:true,&#34;striped&#34;:true,&#34;style&#34;:{&#34;maxWidth&#34;:650},&#34;height&#34;:&#34;300px&#34;,&#34;dataKey&#34;:&#34;cf4f52b6002b3fbe4f7a06ba87884536&#34;,&#34;key&#34;:&#34;cf4f52b6002b3fbe4f7a06ba87884536&#34;},&#34;children&#34;:[]},&#34;class&#34;:&#34;reactR_markup&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}Flowchart_QC_criteria{&#34;</description>
+    </item>
+    
+    <item>
+      <title>IR benefits</title>
+      <link>https://davidemessinaars.github.io/test_website/en/data-models/ir-benefits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidemessinaars.github.io/test_website/en/data-models/ir-benefits/</guid>
+      <description>D4_IR_benefit_fup{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;Name&#34;:[&#34;sex&#34;,null,&#34;Birthcohort_persons&#34;,null,null,null,null,null,null,null,&#34;type_vax&#34;,null,null,&#34;week_fup&#34;,&#34;Persontime&#34;,&#34;Persontime_COVID_L1plus&#34;,&#34;Persontime_COVID_L2plus&#34;,&#34;Persontime_COVID_L3plus&#34;,&#34;Persontime_COVID_L4plus&#34;,&#34;COVID_L1plus_b&#34;,&#34;COVID_L2plus_b&#34;,&#34;COVID_L3plus_b&#34;,&#34;COVID_L4plus_b&#34;],&#34;Description&#34;:[null,null,null,null,null,null,null,null,null,null,&#34;type of vaccine&#34;,null,null,null,null,null,null,null,null,null,null,null,null],&#34;Format/Vocabulary&#34;:[&#34;0 = Female&#34;,&#34;1 = Male&#34;,&#34;D4_IR_benefit_week{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;Name&#34;:[&#34;Dose&#34;,null,null,&#34;sex&#34;,null,&#34;Birthcohort_persons&#34;,null,null,null,null,null,null,null,&#34;type_vax&#34;,null,null,&#34;week_fup&#34;,&#34;IR_COVID_L1plus&#34;,&#34;lb_COVID_L1plus&#34;,&#34;ub_COVID_L1plus&#34;,&#34;IR_COVID_L2plus&#34;,&#34;lb_COVID_L2plus&#34;,&#34;ub_COVID_L2plus&#34;,&#34;IR_COVID_L3plus&#34;,&#34;lb_COVID_L3plus&#34;,&#34;ub_COVID_L3plus&#34;,&#34;IR_COVID_L4plus&#34;,&#34;lb_COVID_L4plus&#34;,&#34;ub_COVID_L4plus&#34;],&#34;Description&#34;:[null,null,null,null,null,null,null,null,null,null,null,null,null,&#34;type of vaccine&#34;,null,null,&#34;weeks of follow up&#34;,&#34;incidence rate&#34;,&#34;lower 95% confidence interval bound for the IR&#34;,&#34;upper 95% confidence interval bound for the IR&#34;,&#34;incidence rate&#34;,&#34;lower 95% confidence interval bound for the IR&#34;,&#34;upper 95% confidence interval bound for the IR&#34;,&#34;incidence rate&#34;,&#34;lower 95% confidence interval bound for the IR&#34;,&#34;upper 95% confidence interval bound for the IR&#34;</description>
+    </item>
+    
+    <item>
+      <title>Main datasets</title>
+      <link>https://davidemessinaars.github.io/test_website/en/data-models/main-datasets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidemessinaars.github.io/test_website/en/data-models/main-datasets/</guid>
+      <description>D4_study_source_populationThe unit of observation of this table is all the persons that have an observation period overlapping 01-01-2020.{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;variable&#34;:[&#34;person_id&#34;,&#34;sex&#34;,&#34;date_of_birth&#34;,&#34;date_of_death&#34;,&#34;study_entry_date&#34;,&#34;Start_follow_up (start_lookback)&#34;,&#34;study_exit_date&#34;],&#34;Description&#34;:[&#34;unique person identifier&#34;,&#34;sex at instance creation&#34;,&#34;date of birth&#34;,&#34;date of death&#34;,&#34;date at which subject enters the study, maximum(01-01-2020, date_of_birth, op_start_date) periods, and inclusion criteria (for all 01-01-2020)&#34;,&#34;study_entry_date – 365 days&#34;,&#34;minimum between exit_spell_category ( overlapping spell), date of death, end of study period, and recommended end date or date_creation (both in cdm_source)&#34;</description>
+    </item>
+    
+    <item>
+      <title>PersonTime benefits</title>
+      <link>https://davidemessinaars.github.io/test_website/en/data-models/persontime-benefits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidemessinaars.github.io/test_website/en/data-models/persontime-benefits/</guid>
+      <description>D4_persontime_benefit_week{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;Name&#34;:[&#34;sex&#34;,null,&#34;Birthcohort_persons&#34;,null,null,null,null,null,null,null,&#34;Dose&#34;,null,null,&#34;type_vax&#34;,null,null,&#34;week&#34;,&#34;Persontime&#34;,&#34;Persontime_COVID_L1plus&#34;,&#34;Persontime_COVID_L2plus&#34;,&#34;Persontime_COVID_L3plus&#34;,&#34;Persontime_COVID_L4plus&#34;,&#34;COVID_L1plus_b&#34;,&#34;COVID_L2plus_b&#34;,&#34;COVID_L3plus_b&#34;,&#34;COVID_L4plus_b&#34;],&#34;Description&#34;:[null,null,null,null,null,null,null,null,null,null,null,null,null,&#34;type of vaccine&#34;,null,null,null,null,null,null,null,null,null,null,null,null],&#34;Format/Vocabulary&#34;:[&#34;0 = Female&#34;,&#34;1 = Male&#34;,&#34;D4_persontime_benefit_year{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;Name&#34;:[&#34;datasource&#34;,&#34;week&#34;,&#34;vx_manufacturer&#34;,&#34;dose&#34;,&#34;riskfactor&#34;,&#34;N&#34;],&#34;Description&#34;:[null,&#34;Monday of the week&#34;,null,null,null,&#34;number of doses administered in this week for this vaccine manufacturer in the population with this risk factor&#34;],&#34;Format/Vocabulary&#34;:[&#34;ARS, BIFAP, CPRD, PHARMO&#34;,&#34;YYYYMMDD eg 20210104&#34;,&#34;Pfizer, Moderna, AstraZeneca, J&amp;J, …&#34;,&#34;1 = dose 1, 2 = dose 2, UKN = unknown dose&#34;,&#34;\&#34;COVCANCER\&#34;: cancer, \&#34;COVCOPD\&#34;: Chronic obstructive pulmonary disease, \&#34;COVHIV\&#34;: HIV, \&#34;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://davidemessinaars.github.io/test_website/zh/basics/</loc>
+    <loc>https://davidemessinaars.github.io/test_website/zh/data-models/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/en/basics/"
+                href="https://davidemessinaars.github.io/test_website/en/data-models/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://davidemessinaars.github.io/test_website/fr/basics/"
+                href="https://davidemessinaars.github.io/test_website/fr/data-models/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://davidemessinaars.github.io/test_website/zh/basics/"
+                href="https://davidemessinaars.github.io/test_website/zh/data-models/"
                 />
   </url><url>
     <loc>https://davidemessinaars.github.io/test_website/zh/categories/</loc>
