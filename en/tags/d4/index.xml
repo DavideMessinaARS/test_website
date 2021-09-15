@@ -34,15 +34,6 @@
     </item>
     
     <item>
-      <title>IR benefits</title>
-      <link>https://davidemessinaars.github.io/test_website/en/data-models/ir-benefits/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidemessinaars.github.io/test_website/en/data-models/ir-benefits/</guid>
-      <description>D4_IR_benefit_fup{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;Name&#34;:[&#34;sex&#34;,null,&#34;Birthcohort_persons&#34;,null,null,null,null,null,null,null,&#34;type_vax&#34;,null,null,&#34;week_fup&#34;,&#34;Persontime&#34;,&#34;Persontime_COVID_L1plus&#34;,&#34;Persontime_COVID_L2plus&#34;,&#34;Persontime_COVID_L3plus&#34;,&#34;Persontime_COVID_L4plus&#34;,&#34;COVID_L1plus_b&#34;,&#34;COVID_L2plus_b&#34;,&#34;COVID_L3plus_b&#34;,&#34;COVID_L4plus_b&#34;],&#34;Description&#34;:[null,null,null,null,null,null,null,null,null,null,&#34;type of vaccine&#34;,null,null,null,null,null,null,null,null,null,null,null,null],&#34;Format/Vocabulary&#34;:[&#34;0 = Female&#34;,&#34;1 = Male&#34;,&#34;D4_IR_benefit_week{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;Name&#34;:[&#34;Dose&#34;,null,null,&#34;sex&#34;,null,&#34;Birthcohort_persons&#34;,null,null,null,null,null,null,null,&#34;type_vax&#34;,null,null,&#34;week_fup&#34;,&#34;IR_COVID_L1plus&#34;,&#34;lb_COVID_L1plus&#34;,&#34;ub_COVID_L1plus&#34;,&#34;IR_COVID_L2plus&#34;,&#34;lb_COVID_L2plus&#34;,&#34;ub_COVID_L2plus&#34;,&#34;IR_COVID_L3plus&#34;,&#34;lb_COVID_L3plus&#34;,&#34;ub_COVID_L3plus&#34;,&#34;IR_COVID_L4plus&#34;,&#34;lb_COVID_L4plus&#34;,&#34;ub_COVID_L4plus&#34;],&#34;Description&#34;:[null,null,null,null,null,null,null,null,null,null,null,null,null,&#34;type of vaccine&#34;,null,null,&#34;weeks of follow up&#34;,&#34;incidence rate&#34;,&#34;lower 95% confidence interval bound for the IR&#34;,&#34;upper 95% confidence interval bound for the IR&#34;,&#34;incidence rate&#34;,&#34;lower 95% confidence interval bound for the IR&#34;,&#34;upper 95% confidence interval bound for the IR&#34;,&#34;incidence rate&#34;,&#34;lower 95% confidence interval bound for the IR&#34;,&#34;upper 95% confidence interval bound for the IR&#34;</description>
-    </item>
-    
-    <item>
       <title>PersonTime benefits</title>
       <link>https://davidemessinaars.github.io/test_website/en/data-models/persontime-benefits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
