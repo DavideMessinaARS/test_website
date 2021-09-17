@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Documentation du thème Hugo Learn</title>
-    <link>https://davidemessinaars.github.io/test_website/fr/tags/</link>
+    <link>/fr/tags/</link>
     <description>Recent content in Tags on Documentation du thème Hugo Learn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 29 Nov 2018 08:41:44 +0100</lastBuildDate><atom:link href="https://davidemessinaars.github.io/test_website/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Nov 2018 08:41:44 +0100</lastBuildDate><atom:link href="/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>documentation</title>
-      <link>https://davidemessinaars.github.io/test_website/fr/tags/documentation/</link>
+      <link>/fr/tags/documentation/</link>
       <pubDate>Thu, 29 Nov 2018 08:41:44 +0100</pubDate>
       
-      <guid>https://davidemessinaars.github.io/test_website/fr/tags/documentation/</guid>
+      <guid>/fr/tags/documentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tutorial</title>
-      <link>https://davidemessinaars.github.io/test_website/fr/tags/tutorial/</link>
+      <link>/fr/tags/tutorial/</link>
       <pubDate>Thu, 29 Nov 2018 08:41:44 +0100</pubDate>
       
-      <guid>https://davidemessinaars.github.io/test_website/fr/tags/tutorial/</guid>
+      <guid>/fr/tags/tutorial/</guid>
       <description></description>
     </item>
     

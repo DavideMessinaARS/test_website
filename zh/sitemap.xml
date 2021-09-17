@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://davidemessinaars.github.io/test_website/zh/data-models/</loc>
+    <loc>/zh/data-models/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/en/data-models/"
+                href="/en/data-models/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://davidemessinaars.github.io/test_website/fr/data-models/"
+                href="/fr/data-models/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://davidemessinaars.github.io/test_website/zh/data-models/"
+                href="/zh/data-models/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/zh/categories/</loc>
+    <loc>/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/en/categories/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://davidemessinaars.github.io/test_website/fr/categories/"
+                href="/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://davidemessinaars.github.io/test_website/zh/categories/"
+                href="/zh/categories/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/zh/</loc>
+    <loc>/zh/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/en/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://davidemessinaars.github.io/test_website/fr/"
+                href="/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://davidemessinaars.github.io/test_website/zh/"
+                href="/zh/"
                 />
   </url><url>
-    <loc>https://davidemessinaars.github.io/test_website/zh/tags/</loc>
+    <loc>/zh/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidemessinaars.github.io/test_website/en/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://davidemessinaars.github.io/test_website/fr/tags/"
+                href="/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://davidemessinaars.github.io/test_website/zh/tags/"
+                href="/zh/tags/"
                 />
   </url>
 </urlset>
