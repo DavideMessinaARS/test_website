@@ -2,6 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/zh/actions-in-each-step/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/actions-in-each-step/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/actions-in-each-step/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/actions-in-each-step/"
+                />
+  </url><url>
     <loc>/zh/data-models/</loc>
     <xhtml:link
                 rel="alternate"
@@ -17,6 +34,74 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/data-models/"
+                />
+  </url><url>
+    <loc>/zh/how-to-run-this-script/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/how-to-run-this-script/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/how-to-run-this-script/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/how-to-run-this-script/"
+                />
+  </url><url>
+    <loc>/zh/introduction/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/introduction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/introduction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/introduction/"
+                />
+  </url><url>
+    <loc>/zh/parameters/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/parameters/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/parameters/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/parameters/"
+                />
+  </url><url>
+    <loc>/zh/structure-of-the-script/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/structure-of-the-script/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/structure-of-the-script/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/structure-of-the-script/"
                 />
   </url><url>
     <loc>/zh/categories/</loc>

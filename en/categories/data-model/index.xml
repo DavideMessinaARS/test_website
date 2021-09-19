@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Model on Documentation for Hugo Learn Theme</title>
+    <title>Data Model on ECVM documentation</title>
     <link>/en/categories/data-model/</link>
-    <description>Recent content in Data Model on Documentation for Hugo Learn Theme</description>
+    <description>Recent content in Data Model on ECVM documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language><atom:link href="/en/categories/data-model/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -121,24 +121,6 @@
       
       <guid>/en/data-models/persontime-risk/</guid>
       <description>D4_persontime_risk_week Stratified table by sex, birth cohort, dose, type vax, calendar week and risk factors. Contains the persontime and counts for each AESI{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;Name&#34;:[&#34;sex&#34;,&#34;Birthcohort_persons&#34;,&#34;Dose&#34;,&#34;type_vax&#34;,&#34;riskfactors&#34;,&#34;week&#34;,&#34;Persontime&#34;,&#34;Persontime_AESI&#34;,&#34;AESI_b&#34;],&#34;Description&#34;:[null,null,null,&#34;type of vaccine&#34;,&#34;Cases in population for each risk factor&#34;,null,&#34;Total persontime&#34;,&#34;Persontime in population for each AESI&#34;,&#34;Cases in population for each AESI&#34;],&#34;Format/Vocabulary&#34;:[&#34;0 = Female, 1 = Male&#34;,&#34;D4_persontime_risk_year Stratified table by sex, birth cohort, dose, type vax, week of followup and risk factors.</description>
-    </item>
-    
-    <item>
-      <title>test rmarkdown</title>
-      <link>/en/post/test-rmarkdown/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/en/post/test-rmarkdown/</guid>
-      <description>level 2 level 3 </description>
-    </item>
-    
-    <item>
-      <title>test rmd</title>
-      <link>/en/post/test-rmd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/en/post/test-rmd/</guid>
-      <description>level 2level 3</description>
     </item>
     
   </channel>
