@@ -1,20 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Basics on Documentation for Hugo Learn Theme</title>
-    <link>https://davidemessinaars.github.io/test_website/en/basics/</link>
-    <description>Recent content in Basics on Documentation for Hugo Learn Theme</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Sat, 09 Apr 2016 16:50:16 +0200</lastBuildDate><atom:link href="https://davidemessinaars.github.io/test_website/en/basics/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>test table</title>
-      <link>https://davidemessinaars.github.io/test_website/en/basics/test-table/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidemessinaars.github.io/test_website/en/basics/test-table/</guid>
-      <description>Test table{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;name&#34;:[&#34;person_id&#34;,&#34;sex&#34;,&#34;vax_manufacturer&#34;,&#34;vax_date&#34;,&#34;a&#34;,&#34;b&#34;,&#34;c&#34;,&#34;d&#34;,&#34;e&#34;,&#34;f&#34;,&#34;g&#34;,&#34;h&#34;,&#34;i&#34;],&#34;type&#34;:[&#34;character&#34;,&#34;number&#34;,&#34;character&#34;,&#34;date&#34;,&#34;1&#34;,&#34;2&#34;,&#34;3&#34;,&#34;4&#34;,&#34;5&#34;,&#34;6&#34;,&#34;7&#34;,&#34;8&#34;,&#34;9&#34;],&#34;description&#34;:[null,&#34;0,1&#34;,&#34;Moderna, Pfizer, Astrazeneca, J&amp;J&#34;,null,null,null,null,null,null,null,null,null,null]},&#34;columns&#34;:[{&#34;accessor&#34;:&#34;name&#34;,&#34;name&#34;:&#34;name&#34;,&#34;type&#34;:&#34;character&#34;},{&#34;accessor&#34;:&#34;type&#34;,&#34;name&#34;:&#34;type&#34;,&#34;type&#34;:&#34;character&#34;},{&#34;accessor&#34;:&#34;description&#34;,&#34;name&#34;:&#34;description&#34;,&#34;type&#34;:&#34;character&#34;}],&#34;sortable&#34;:false,&#34;searchable&#34;:true,&#34;defaultPageSize&#34;:13,&#34;paginationType&#34;:&#34;numbers&#34;,&#34;showPageInfo&#34;:true,&#34;minRows&#34;:1,&#34;highlight&#34;:true,&#34;bordered&#34;:true,&#34;striped&#34;:true,&#34;style&#34;:{&#34;maxWidth&#34;:650},&#34;height&#34;:&#34;300px&#34;,&#34;dataKey&#34;:&#34;49025ebc5b5ec3b2e52f602b35ae37e3&#34;,&#34;key&#34;:&#34;49025ebc5b5ec3b2e52f602b35ae37e3&#34;},&#34;children&#34;:[]},&#34;class&#34;:&#34;reactR_markup&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}</description>
-    </item>
-    
-  </channel>
-</rss>
