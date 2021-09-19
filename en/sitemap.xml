@@ -19,23 +19,6 @@
                 href="/en/introduction/"
                 />
   </url><url>
-    <loc>/en/actions-in-each-step/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/actions-in-each-step/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/actions-in-each-step/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/actions-in-each-step/"
-                />
-  </url><url>
     <loc>/en/data-models/code-counts/</loc>
   </url><url>
     <loc>/en/data-models/dashboard/</loc>
@@ -67,45 +50,11 @@
   </url><url>
     <loc>/en/data-models/flowcharts/</loc>
   </url><url>
-    <loc>/en/how-to-run-this-script/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/how-to-run-this-script/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/how-to-run-this-script/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/how-to-run-this-script/"
-                />
-  </url><url>
     <loc>/en/data-models/incidence-rate/</loc>
   </url><url>
     <loc>/en/data-models/initial-datasets/</loc>
   </url><url>
     <loc>/en/data-models/main-datasets/</loc>
-  </url><url>
-    <loc>/en/parameters/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/parameters/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/parameters/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/parameters/"
-                />
   </url><url>
     <loc>/en/data-models/persontime-benefits/</loc>
   </url><url>
@@ -128,6 +77,57 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/structure-of-the-script/"
+                />
+  </url><url>
+    <loc>/en/actions-in-each-step/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/actions-in-each-step/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/actions-in-each-step/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/actions-in-each-step/"
+                />
+  </url><url>
+    <loc>/en/parameters/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/parameters/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/parameters/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/parameters/"
+                />
+  </url><url>
+    <loc>/en/how-to-run-this-script/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/how-to-run-this-script/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/how-to-run-this-script/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/how-to-run-this-script/"
                 />
   </url><url>
     <loc>/en/categories/</loc>
