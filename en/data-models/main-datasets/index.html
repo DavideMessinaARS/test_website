@@ -12,22 +12,22 @@
     <title>Main datasets :: ECVM documentation</title>
 
     
-    <link href="../../../css/nucleus.css?1632126758" rel="stylesheet">
-    <link href="../../../css/fontawesome-all.min.css?1632126758" rel="stylesheet">
-    <link href="../../../css/hybrid.css?1632126758" rel="stylesheet">
-    <link href="../../../css/featherlight.min.css?1632126758" rel="stylesheet">
-    <link href="../../../css/perfect-scrollbar.min.css?1632126758" rel="stylesheet">
-    <link href="../../../css/auto-complete.css?1632126758" rel="stylesheet">
-    <link href="../../../css/atom-one-dark-reasonable.css?1632126758" rel="stylesheet">
-    <link href="../../../css/theme.css?1632126758" rel="stylesheet">
-    <link href="../../../css/tabs.css?1632126758" rel="stylesheet">
-    <link href="../../../css/hugo-theme.css?1632126758" rel="stylesheet">
+    <link href="../../../css/nucleus.css?1632132067" rel="stylesheet">
+    <link href="../../../css/fontawesome-all.min.css?1632132067" rel="stylesheet">
+    <link href="../../../css/hybrid.css?1632132067" rel="stylesheet">
+    <link href="../../../css/featherlight.min.css?1632132067" rel="stylesheet">
+    <link href="../../../css/perfect-scrollbar.min.css?1632132067" rel="stylesheet">
+    <link href="../../../css/auto-complete.css?1632132067" rel="stylesheet">
+    <link href="../../../css/atom-one-dark-reasonable.css?1632132067" rel="stylesheet">
+    <link href="../../../css/theme.css?1632132067" rel="stylesheet">
+    <link href="../../../css/tabs.css?1632132067" rel="stylesheet">
+    <link href="../../../css/hugo-theme.css?1632132067" rel="stylesheet">
     
-    <link href="../../../css/theme-green.css?1632126758" rel="stylesheet">
+    <link href="../../../css/theme-green.css?1632132067" rel="stylesheet">
     
     
 
-    <script src="../../../js/jquery-3.3.1.min.js?1632126758"></script>
+    <script src="../../../js/jquery-3.3.1.min.js?1632132067"></script>
 
     <style>
       :root #header + #content > #left > #rlblock_left{
@@ -55,14 +55,14 @@
     <span data-search-clear=""><i class="fas fa-times"></i></span>
 </div>
 
-<script type="text/javascript" src="../../../js/lunr.min.js?1632126758"></script>
-<script type="text/javascript" src="../../../js/auto-complete.js?1632126758"></script>
+<script type="text/javascript" src="../../../js/lunr.min.js?1632132067"></script>
+<script type="text/javascript" src="../../../js/auto-complete.js?1632132067"></script>
 <script type="text/javascript">
     
         var baseurl = "\/\/en";
     
 </script>
-<script type="text/javascript" src="../../../js/search.js?1632126758"></script>
+<script type="text/javascript" src="../../../js/search.js?1632132067"></script>
 
     
   </div>
@@ -614,7 +614,7 @@
     <li><a href="#d3_vaccin_cohort">D3_vaccin_cohort</a></li>
     <li><a href="#d3_studyweeks">D3_studyweeks</a></li>
     <li><a href="#d3_vaxweeks">D3_vaxweeks</a></li>
-    <li><a href="#d3_vaxweeks_vaccin_cohort">D3_vaxweeks_vaccin_cohort</a></li>
+    <li><a href="#d3_vaxweeks_including_not_vaccinated">D3_vaxweeks_including_not_vaccinated</a></li>
   </ul>
 </nav>
     </div>
@@ -699,7 +699,7 @@
 </div>
 <h2 id="d3_studyweeks">D3_studyweeks</h2>
 <div align="center">
-<h2 style="color:#333;background:#FFFFFF;text-align:left;font-family:-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif;font-size:18px;font-style:normal;font-weight:bold;text-decoration:;margin:20px">Unit of observation: persons in D3 vaccin_cohort. Observations: one per week since date_vax_1 to study_exit_date (including partial weeks, if any).</h2>
+<h2 style="color:#333;background:#FFFFFF;text-align:left;font-family:-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif;font-size:18px;font-style:normal;font-weight:bold;text-decoration:;margin:20px">Unit of observation: persons in D3 study_population. Observations: one per week since date_vax_1 to study_exit_date (including partial weeks, if any).</h2>
 <div id="htmlwidget-6" class="reactable html-widget" style="width:auto;height:300px;"></div>
 <script type="application/json" data-for="htmlwidget-6">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"variable":["person_id","start_date_of_period","end_date_of_period","dose","Week_","Month"],"Description":["unique person identifier","first date of this period of observation","last date of this period of observation, included","which dose the person is exposed to in this observation period","Weeks since vax dose","Calendar Month"],"format":[null,"date","date","integer","integer",null],"vocabulary":["from cdm persons",null,null,"0 = the period of observation is included between study_entry_date and study_entry_date_vax1 - 1, 1 = the period of observation is included between study_entry_date_vax1 and study_exit_date_vax1, 2 = the period of observation is included between study_entry_date_vax2 and study_exit_date_vax2","<1 =’0-1’ <2 >1=’1-2’ etc",null],"comments":[null,null,null,null,"floor(study_exit_date_vax dose-date_vax dose)/7",null]},"columns":[{"accessor":"variable","name":"variable","type":"character"},{"accessor":"Description","name":"Description","type":"character"},{"accessor":"format","name":"format","type":"character"},{"accessor":"vocabulary","name":"vocabulary","type":"character"},{"accessor":"comments","name":"comments","type":"character"}],"sortable":false,"searchable":true,"defaultPageSize":6,"paginationType":"numbers","showPageInfo":true,"minRows":1,"highlight":true,"bordered":true,"striped":true,"style":{"maxWidth":650},"height":"300px","dataKey":"ca3229a0f9ab2b3214553dd73e9c0800","key":"ca3229a0f9ab2b3214553dd73e9c0800"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
 <br/>
@@ -709,7 +709,7 @@
 </div>
 <h2 id="d3_vaxweeks">D3_vaxweeks</h2>
 <div align="center">
-<h2 style="color:#333;background:#FFFFFF;text-align:left;font-family:-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif;font-size:18px;font-style:normal;font-weight:bold;text-decoration:;margin:20px">Unit of observation: persons in D3_study_population. Observations: one per week study_start_date to study_exit_date (including partial weeks, if any). In addition with respect to D3_vaxweeks, this table contains birth cohort and if the person has any risk factors</h2>
+<h2 style="color:#333;background:#FFFFFF;text-align:left;font-family:-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif;font-size:18px;font-style:normal;font-weight:bold;text-decoration:;margin:20px">Unit of observation: persons in D3 vaccin_cohort. Observations: one per week study_start_date to study_exit_date (including partial weeks, if any).</h2>
 <div id="htmlwidget-7" class="reactable html-widget" style="width:auto;height:300px;"></div>
 <script type="application/json" data-for="htmlwidget-7">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"variable":["person_id","start_date_of_period","end_date_of_period","dose","Week_","Month"],"Description":["unique person identifier","first date of this period of observation","last date of this period of observation, included","which dose the person is exposed to in this observation period","Weeks since vax dose","Calendar Month"],"format":[null,"date","date","integer","integer",null],"vocabulary":["from cdm persons",null,null,"1 = the period of observation is included between study_entry_date_vax1 and study_exit_date_vax1 2 = the period of observation is included between study_entry_date_vax2 and study_exit_date_vax2","<1 =’0-1’ <2 >1=’1-2’ etc",null],"comments":[null,null,null,null,"floor(study_exit_date_vax dose-date_vax dose)/7",null]},"columns":[{"accessor":"variable","name":"variable","type":"character"},{"accessor":"Description","name":"Description","type":"character"},{"accessor":"format","name":"format","type":"character"},{"accessor":"vocabulary","name":"vocabulary","type":"character"},{"accessor":"comments","name":"comments","type":"character"}],"sortable":false,"searchable":true,"defaultPageSize":6,"paginationType":"numbers","showPageInfo":true,"minRows":1,"highlight":true,"bordered":true,"striped":true,"style":{"maxWidth":650},"height":"300px","dataKey":"3673d3694db62825dc53a3f2cc4334cc","key":"3673d3694db62825dc53a3f2cc4334cc"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
 <br/>
@@ -717,11 +717,11 @@
 <br/>
 <br/>
 </div>
-<h2 id="d3_vaxweeks_vaccin_cohort">D3_vaxweeks_vaccin_cohort</h2>
+<h2 id="d3_vaxweeks_including_not_vaccinated">D3_vaxweeks_including_not_vaccinated</h2>
 <div align="center">
-<h2 style="color:#333;background:#FFFFFF;text-align:left;font-family:-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif;font-size:18px;font-style:normal;font-weight:bold;text-decoration:;margin:20px">Unit of observation: persons in D3 vaccin_cohort. Slimmer version D3 vaccin_cohort with information regarding risk factors and age at 01/01/21</h2>
+<h2 style="color:#333;background:#FFFFFF;text-align:left;font-family:-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif;font-size:18px;font-style:normal;font-weight:bold;text-decoration:;margin:20px">Unit of observation: persons in D3 study_population. Observations: one per week from date_vax_1 to study_exit_date (including partial weeks, if any), one week for not vaccinated. In addition with respect to D3_vaxweeks, this table contains birth cohort and if the person has any risk factors</h2>
 <div id="htmlwidget-8" class="reactable html-widget" style="width:auto;height:300px;"></div>
-<script type="application/json" data-for="htmlwidget-8">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"variable":["person_id","sex","study_entry_date","study_entry_date_vax1","at_risk_at_study_entry","study_exit_date","age_at_1_jan_2021"],"Description":["unique person identifier","sex at instance creation","date of study entry","date of first vaccination","Any of the covariate diagnoses or proxy drugs","date of study exit","age at 01/01/2021"],"format":[null,"character","date","date","binary","date","integer"],"vocabulary":["from cdm persons","from cdm persons",null,null,"0=no 1=yes",null,null],"comments":[null,null,null,null,null,null,null]},"columns":[{"accessor":"variable","name":"variable","type":"character"},{"accessor":"Description","name":"Description","type":"character"},{"accessor":"format","name":"format","type":"character"},{"accessor":"vocabulary","name":"vocabulary","type":"character"},{"accessor":"comments","name":"comments","type":"logical"}],"sortable":false,"searchable":true,"defaultPageSize":7,"paginationType":"numbers","showPageInfo":true,"minRows":1,"highlight":true,"bordered":true,"striped":true,"style":{"maxWidth":650},"height":"300px","dataKey":"d24c6bc21b33045589549beb248f4820","key":"d24c6bc21b33045589549beb248f4820"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-8">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"variable":["person_id","start_date_of_period","end_date_of_period","Dose","sex","type_vax","Birthcohort_persons","riskfactor"],"Description":["unique person identifier","first date of this period of observation","last date of this period of observation, included",null,null,"type of vaccine",null,null],"format":[null,"date","date","0 = no dose, 1= dose 1, 2= dose 2","0 = Female, 1 = Male","Pfizer, Moderna, AstraZeneca, J&J","<1940, 1940-1949, 1950-1959, 1960-1969, 1970-1979, 1980-1989, 1990+, all_birth cohorts: any age","riskfactors"],"vocabulary":["from cdm persons",null,null,null,null,null,null,null],"comments":[null,null,null,null,null,null,null,null]},"columns":[{"accessor":"variable","name":"variable","type":"character"},{"accessor":"Description","name":"Description","type":"character"},{"accessor":"format","name":"format","type":"character"},{"accessor":"vocabulary","name":"vocabulary","type":"character"},{"accessor":"comments","name":"comments","type":"logical"}],"sortable":false,"searchable":true,"defaultPageSize":8,"paginationType":"numbers","showPageInfo":true,"minRows":1,"highlight":true,"bordered":true,"striped":true,"style":{"maxWidth":650},"height":"300px","dataKey":"a5e8c570c84be8c1c80d4a06446f5bbc","key":"a5e8c570c84be8c1c80d4a06446f5bbc"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
 <br/>
 <br/>
 <br/>
@@ -1096,16 +1096,16 @@
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="../../../js/clipboard.min.js?1632126758"></script>
-    <script src="../../../js/perfect-scrollbar.min.js?1632126758"></script>
-    <script src="../../../js/perfect-scrollbar.jquery.min.js?1632126758"></script>
-    <script src="../../../js/jquery.sticky.js?1632126758"></script>
-    <script src="../../../js/featherlight.min.js?1632126758"></script>
-    <script src="../../../js/highlight.pack.js?1632126758"></script>
+    <script src="../../../js/clipboard.min.js?1632132067"></script>
+    <script src="../../../js/perfect-scrollbar.min.js?1632132067"></script>
+    <script src="../../../js/perfect-scrollbar.jquery.min.js?1632132067"></script>
+    <script src="../../../js/jquery.sticky.js?1632132067"></script>
+    <script src="../../../js/featherlight.min.js?1632132067"></script>
+    <script src="../../../js/highlight.pack.js?1632132067"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="../../../js/modernizr.custom-3.6.0.js?1632126758"></script>
-    <script src="../../../js/learn.js?1632126758"></script>
-    <script src="../../../js/hugo-learn.js?1632126758"></script>
+    <script src="../../../js/modernizr.custom-3.6.0.js?1632132067"></script>
+    <script src="../../../js/learn.js?1632132067"></script>
+    <script src="../../../js/hugo-learn.js?1632132067"></script>
     
     <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
