@@ -1,135 +1,135 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/step_3/d3_events_outcomesim_simple/index.html</loc>
+    <loc>/step_3/d3-out-sim/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_1/d3_persons/index.html</loc>
+    <loc>/step_1/d3-person/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_4/d3_total_study_population/index.html</loc>
+    <loc>/step_4/d3-stud-pop/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_5/d4_count_events_windows/index.html</loc>
+    <loc>/step_5/d4-count-event/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_2/d4_study_population/index.html</loc>
+    <loc>/step_2/d4-study-pop/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_6/d5_ir_background/index.html</loc>
+    <loc>/step_6/d5-ir/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_7/table_1/index.html</loc>
+    <loc>/step_7/tab-1/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_1/d3_events_death/index.html</loc>
+    <loc>/step_1/d3-death/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_3/d3_events_outcomecompl_complex/index.html</loc>
+    <loc>/step_3/d3-out-compl/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_4/d3_study_population_by_dose/index.html</loc>
+    <loc>/step_4/d3-stud-pop-dose/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_5/d4_count_events_windows_aggregated/index.html</loc>
+    <loc>/step_5/d4-count-event-aggr/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_6/d5_ir_background_std/index.html</loc>
+    <loc>/step_6/d5-ir-std/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_2/flowchart_exclusion_criteria/index.html</loc>
+    <loc>/step_2/flow-excl/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_7/table_2/index.html</loc>
+    <loc>/step_7/tab-2/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_3/d3_events_all_outcomes/index.html</loc>
+    <loc>/step_3/d3-all-out/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_1/d3_output_spells_category/index.html</loc>
+    <loc>/step_1/d3-spell-cat/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_4/d3_study_population_by_window_and_dose/index.html</loc>
+    <loc>/step_4/d3-stud-pop-win-dose/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_5/d4_persontime_monthly/index.html</loc>
+    <loc>/step_5/d4-pers-month/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_7/table_3/index.html</loc>
+    <loc>/step_7/tab-3/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_1/conceptsetdataset/index.html</loc>
+    <loc>/step_1/conceptset/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_3/d3_covid_episodes/index.html</loc>
+    <loc>/step_3/d3-cov-epi/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_4/d3_study_population_scri/index.html</loc>
+    <loc>/step_4/d3-stud-pop-scri/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_5/d4_persontime_monthly_aggregated/index.html</loc>
+    <loc>/step_5/d4-pers-month-aggr/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_7/table_4/index.html</loc>
+    <loc>/step_7/tab-4/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_1/d3_clean_vaccines/index.html</loc>
+    <loc>/step_1/d3-vaccine/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_3/d3_covid_episodes_description/index.html</loc>
+    <loc>/step_3/d3-cov-epi-desc/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_4/d3_study_population_cohort/index.html</loc>
+    <loc>/step_4/d3-stud-pop-cohort/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_5/d4_persontime_background/index.html</loc>
+    <loc>/step_5/d4-pers-back/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_7/table_5/index.html</loc>
+    <loc>/step_7/tab-5/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_4/d3_td_variable_condition/index.html</loc>
+    <loc>/step_4/d3-td-condi/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_1/d3_vaccines_curated/index.html</loc>
+    <loc>/step_1/d3-vaccine-cur/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_5/d4_persontime_background_aggregated/index.html</loc>
+    <loc>/step_5/d4-pers-back-aggr/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_3/qc_covid_episodes/index.html</loc>
+    <loc>/step_3/qc-cov-epi/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -137,19 +137,19 @@
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_7/table_6/index.html</loc>
+    <loc>/step_7/tab-6/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_3/d3_covid_severity_components_hospitalisation/index.html</loc>
+    <loc>/step_3/d3-cov-sev-hosp/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_4/d3_td_variable_comedication/index.html</loc>
+    <loc>/step_4/d3-td-comedi/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_1/flowchart_criteria_for_doses/index.html</loc>
+    <loc>/step_1/flow-dose/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -157,15 +157,15 @@
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_1/d3_clean_spells/index.html</loc>
+    <loc>/step_1/d3-spell/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_4/d3_td_variable_number_conditions/index.html</loc>
+    <loc>/step_4/d3-td-num-condi/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_3/qc_covid_severity_components_hospitalisation/index.html</loc>
+    <loc>/step_3/qc-cov-sev-hosp/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -173,11 +173,11 @@
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_3/d3_covid_severity_components_icu/index.html</loc>
+    <loc>/step_3/d3-cov-sev-icu/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_1/d3_selection_criteria_from_persons_to_study_population/index.html</loc>
+    <loc>/step_1/sel-cri-pop/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -185,7 +185,7 @@
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_3/qc_covid_severity_components_icu/index.html</loc>
+    <loc>/step_3/qc-cov-sev-icu/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -193,7 +193,7 @@
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_3/d3_covid_severity_components_death/index.html</loc>
+    <loc>/step_3/d3-cov-sev-death/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -201,7 +201,7 @@
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_3/qc_covid_severity_components_death/index.html</loc>
+    <loc>/step_3/qc-cov-sev-death/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -209,15 +209,15 @@
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_3/d3_td_variable_covid/index.html</loc>
+    <loc>/step_3/d3-td-cov/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_3/d3_covariates_all/index.html</loc>
+    <loc>/step_3/d3-cov-all/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>/step_3/qc_all_components_outcome/index.html</loc>
+    <loc>/step_3/qc-comp-out/index.html</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url>
   <url>
