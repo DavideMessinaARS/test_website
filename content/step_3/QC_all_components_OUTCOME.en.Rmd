@@ -1,0 +1,13 @@
+---
+title: "QC_all_components_OUTCOME"
+output: html_document
+date: "2023-08-23"
+weight: 15
+slug: "qc-comp-out"
+description: "Occurrence of components of the outcome OUTCOME during 2019 (and. to be dropped, during one year of lookback), per meaning, to all persons in the study population at 1/1/2019 or entering during 2019"
+---
+
+```{r, echo = FALSE, warning = FALSE, message = FALSE}
+name_excel <- "QC_all_components_OUTCOME.xlsx"
+html_codebook(name_excel)
+```

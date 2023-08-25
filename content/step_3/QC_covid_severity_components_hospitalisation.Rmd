@@ -1,0 +1,13 @@
+---
+title: "QC_covid_severity_components_hospitalisation"
+output: html_document
+date: "2023-08-23"
+weight: 8
+slug: "qc-cov-sev-hosp"
+description: "Occurrence of components of covid hospitalisation, per meaning, to all persons in the study population"
+---
+
+```{r, echo = FALSE, warning = FALSE, message = FALSE}
+name_excel <- "QC_covid_severity_components_hospitalisation.xlsx"
+html_codebook(name_excel)
+```

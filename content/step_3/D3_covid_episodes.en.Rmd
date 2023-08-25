@@ -1,0 +1,13 @@
+---
+title: "D3_covid_episodes"
+output: html_document
+date: "2023-08-23"
+weight: 4
+slug: "d3-cov-epi"
+description: "Contains the episodes of COVID observed in all persons in the study population. Each episode is separated from the next by at least 60 days"
+---
+
+```{r, echo = FALSE, warning = FALSE, message = FALSE}
+name_excel <- "D3_covid_episodes.xlsx"
+html_codebook(name_excel)
+```

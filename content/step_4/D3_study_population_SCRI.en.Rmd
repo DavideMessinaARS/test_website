@@ -1,0 +1,13 @@
+---
+title: "D3_study_population_SCRI"
+output: html_document
+date: "2023-08-23"
+weight: 4
+slug: "d3-stud-pop-scri"
+description: "Contains the baseline characteristics of the study population, for the cohort study"
+---
+
+```{r, echo = FALSE, warning = FALSE, message = FALSE}
+name_excel <- "D3_study_population_SCRI.xlsx"
+html_codebook(name_excel)
+```

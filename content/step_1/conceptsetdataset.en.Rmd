@@ -1,0 +1,13 @@
+---
+title: "conceptsetdataset"
+output: html_document
+date: "2023-08-23"
+weight: 4
+slug: "conceptset"
+description: "These are multiple datasets, one per each conceptset, which is a value in the list c(conceptsets_exact_matching, conceptsets_children_matching), set in 07_algorithms. Each conceptset dataset is named after the conceptset. Each conceptset is associated to a list of codes. The dataset is obtsained by retrieving records from the CDM bearing a code that match one of the codes in the codelist. The matching can be exact (for the conceptsets in conceptsets_exact_matching) or per ascendant (for conceptsets in conceptsets_children_matching) . Recrods are retrieved from the EVENTS table, but also from other tables which may bear a recrod, such as PROCEDURES or VACCINES"
+---
+
+```{r, echo = FALSE, warning = FALSE, message = FALSE}
+name_excel <- "conceptsetdataset.xlsx"
+html_codebook(name_excel)
+```

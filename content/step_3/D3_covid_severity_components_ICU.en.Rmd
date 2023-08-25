@@ -1,0 +1,13 @@
+---
+title: "D3_covid_severity_components_ICU"
+output: html_document
+date: "2023-08-23"
+weight: 9
+slug: "d3-cov-sev-icu"
+description: "Contains the episodes of COVID in D3_covid_episodes that had level of severity 'hospitalised'"
+---
+
+```{r, echo = FALSE, warning = FALSE, message = FALSE}
+name_excel <- "D3_covid_severity_components_ICU.xlsx"
+html_codebook(name_excel)
+```

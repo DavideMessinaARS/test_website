@@ -1,0 +1,13 @@
+---
+title: "Table 2"
+output: html_document
+date: "2023-08-23"
+weight: 2
+slug: "tab-2"
+description: "Characteristics at baseline"
+---
+
+```{r, echo = FALSE, warning = FALSE, message = FALSE}
+name_excel <- "Table 2.xlsx"
+html_codebook(name_excel)
+```

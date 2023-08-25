@@ -1,0 +1,13 @@
+---
+title: "D3_clean_spells"
+output: html_document
+date: "2023-08-23"
+weight: 8
+slug: "d3-spell"
+description: "Contains the spells exited from CreateSpells plus their binary variables that are to be used for cleaning purposes version; spells that fall outside the interval between birth and death are cut, and op_start_date that start before the baby is 60 days are recasted to birth (to be checked with DAPs)"
+---
+
+```{r, echo = FALSE, warning = FALSE, message = FALSE}
+name_excel <- "D3_clean_spells.xlsx"
+html_codebook(name_excel)
+```

@@ -1,0 +1,13 @@
+---
+title: "D4_persontime_monthly_aggregated"
+output: html_document
+date: "2023-08-23"
+weight: 4
+slug: "d4-pers-month-aggr"
+description: "Contains the persontime observed each month in all the strata of vaccination, per dose and brand, and per previous exposure to COVID, including non vaccinated, from start to end of study"
+---
+
+```{r, echo = FALSE, warning = FALSE, message = FALSE}
+name_excel <- "D4_persontime_monthly_aggregated.xlsx"
+html_codebook(name_excel)
+```

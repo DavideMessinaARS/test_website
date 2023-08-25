@@ -1,0 +1,13 @@
+---
+title: "QC_covid_severity_components_death"
+output: html_document
+date: "2023-08-23"
+weight: 12
+slug: "qc-cov-sev-death"
+description: "Occurrence of components of covid death, per meaning, to all persons in the study population"
+---
+
+```{r, echo = FALSE, warning = FALSE, message = FALSE}
+name_excel <- "QC_covid_severity_components_death.xlsx"
+html_codebook(name_excel)
+```

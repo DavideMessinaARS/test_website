@@ -1,0 +1,13 @@
+---
+title: "D3_TD_variable_COVID"
+output: html_document
+date: "2023-08-23"
+weight: 13
+slug: "d3-td-cov"
+description: "Contains the time-dependent evolution of the categorical variable COVID. Occurrences are recorded with their level of severity. The date is the date of the first information about the infection, infromation about seeviry may accrue across time"
+---
+
+```{r, echo = FALSE, warning = FALSE, message = FALSE}
+name_excel <- "D3_TD_variable_COVID.xlsx"
+html_codebook(name_excel)
+```
