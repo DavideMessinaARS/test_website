@@ -4,6 +4,7 @@ output: html_document
 date: "2023-08-23"
 weight: 7
 slug: "d3-cov-sev-hosp"
+description: "Contains the episodes of COVID in D3_covid_episodes that had level of severity 'intensive care unit (ICU)'"
 ---
 
 <script src="/rmarkdown-libs/core-js/shim.min.js"></script>

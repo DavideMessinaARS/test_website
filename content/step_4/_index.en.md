@@ -7,3 +7,8 @@ menuTitle: "Step 4"
 ---
 
 ## Step 4
+
+Create time-dependent variables
+Create time windows of exposure
+
+{{%children containerstyle="div" style="h2" description="true" %}}

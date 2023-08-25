@@ -8,4 +8,8 @@ menuTitle: "Step 1"
 
 ## Step 1
 
+Gather and label records from the CDM
+Curate birth and death dates, vaccine dose
+Create selection criteria for study population
+
 {{%children containerstyle="div" style="h2" description="true" %}}

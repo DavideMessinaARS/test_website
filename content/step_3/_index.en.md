@@ -7,3 +7,7 @@ menuTitle: "Step 3"
 ---
 
 ## Step 3
+
+Create outcomes and covariate variables on the study population
+
+{{%children containerstyle="div" style="h2" description="true" %}}

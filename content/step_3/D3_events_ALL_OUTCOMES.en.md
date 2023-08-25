@@ -4,6 +4,7 @@ output: html_document
 date: "2023-08-23"
 weight: 3
 slug: "d3-all-out"
+description: "Contains the outcomes observed in the study population, including negative outcomes but excluding covid"
 ---
 
 <script src="/rmarkdown-libs/core-js/shim.min.js"></script>
