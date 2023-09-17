@@ -4,7 +4,7 @@ output: html_document
 date: "2023-08-23"
 weight: 6
 slug: "d3-td-condi"
-description: "Contains the time-dependent evolution of the binary variable condition. Only changes of status are recorded, with date of change. date when the condition changes; the components of the condition last 365 days if they are diagnosis, and 90 days if they are drug proxies; unique spells are created when the algorithm is 1 (if either a dianosis or a drug proxy is active), and the algorithm is reverted to values 0 whenever no component is active"
+description: "Contains the time-dependent evolution of the binary variable condition. Only changes of status are recorded, with date of when the condition changes; the components of the condition last 365 days if they are diagnosis, and 90 days if they are drug proxies; unique spells are created when the algorithm is 1 (if either a dianosis or a drug proxy is active), and the algorithm is reverted to values 0 whenever no component is active"
 ---
 
 ```{r, echo = FALSE, warning = FALSE, message = FALSE}

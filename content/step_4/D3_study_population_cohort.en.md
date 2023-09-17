@@ -4,7 +4,7 @@ output: html_document
 date: "2023-08-23"
 weight: 5
 slug: "d3-stud-pop-cohort"
-description: "Contains the baseline characteristics of the study population, for the cohirt study"
+description: "Contains the baseline characteristics of the study population, for the cohort study"
 ---
 
 <script src="/rmarkdown-libs/core-js/shim.min.js"></script>
@@ -22,7 +22,7 @@ description: "Contains the baseline characteristics of the study population, for
 </div>
 <div id="Metadata" class="tabcontent">
 <div id="htmlwidget-1" class="reactable html-widget " style="width:auto;height:600px;"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"medatata_name":["Name of the dataset","Content of the dataset","Unit of observation","Dataset where the list of UoOs is fully listed and with 1 record per UoO","How many observations per UoO","Variables capturing the UoO","Primary key","Parameters",null,null,null,null,null,null,null,null,null,null,null,null],"metadata_content":["D3_study_population_cohort","contains the baseline characteristics of the study population, for the cohirt study","a person in the readiness study population (D4_study_population)","D4_study_population","1","person_id",null,null,null,null,null,null,null,null,null,null,null,null,null,null]},"columns":[{"id":"medatata_name","name":"medatata_name","type":"character"},{"id":"metadata_content","name":"metadata_content","type":"character"}],"sortable":false,"searchable":true,"pagination":false,"highlight":true,"bordered":true,"striped":true,"style":{"maxWidth":1800},"height":"600px","dataKey":"14d314fdd1b2ec1e5febc1dadc43a0fe"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"medatata_name":["Name of the dataset","Content of the dataset","Unit of observation","Dataset where the list of UoOs is fully listed and with 1 record per UoO","How many observations per UoO","Variables capturing the UoO","Primary key","Parameters",null,null,null,null,null,null,null,null,null,null,null,null],"metadata_content":["D3_study_population_cohort","contains the baseline characteristics of the study population, for the cohort study","a person in the readiness study population (D4_study_population)","D4_study_population","1","person_id",null,null,null,null,null,null,null,null,null,null,null,null,null,null]},"columns":[{"id":"medatata_name","name":"medatata_name","type":"character"},{"id":"metadata_content","name":"metadata_content","type":"character"}],"sortable":false,"searchable":true,"pagination":false,"highlight":true,"bordered":true,"striped":true,"style":{"maxWidth":1800},"height":"600px","dataKey":"6fd5413c9e02d90557a272b091f093ae"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
 </div>
 <div id="Data Model" class="tabcontent">
 <div id="htmlwidget-2" class="reactable html-widget " style="width:auto;height:600px;"></div>

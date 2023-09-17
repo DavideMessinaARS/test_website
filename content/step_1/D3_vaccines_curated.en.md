@@ -4,6 +4,7 @@ output: html_document
 date: "2023-08-23"
 weight: 6
 slug: "d3-vaccine-cur"
+description: "This dataset contains only the records of a COVID vaccine that enter the study"
 ---
 
 <script src="/rmarkdown-libs/core-js/shim.min.js"></script>

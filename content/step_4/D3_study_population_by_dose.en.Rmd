@@ -4,7 +4,7 @@ output: html_document
 date: "2023-08-23"
 weight: 2
 slug: "d3-stud-pop-dose"
-description: "This is a time-dependent dataset, reporting status of vaccination in periods of time: each person is observed as many times as the vaccines they harve received + the time since baseline. Moreover, date of first covid infection ever is stored"
+description: "This is a time-dependent dataset, reporting status of vaccination in periods of time: each person is observed as many times as the vaccines they have received + the time since baseline. Moreover, date of first covid infection ever is stored"
 ---
 
 ```{r, echo = FALSE, warning = FALSE, message = FALSE}

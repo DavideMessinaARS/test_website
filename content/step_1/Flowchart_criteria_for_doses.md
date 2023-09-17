@@ -4,6 +4,7 @@ output: html_document
 date: "2023-08-23"
 weight: 7
 slug: "flow-dose"
+description: "Flowchart of the exclusion of covid vaccines records"
 ---
 
 <script src="/rmarkdown-libs/core-js/shim.min.js"></script>

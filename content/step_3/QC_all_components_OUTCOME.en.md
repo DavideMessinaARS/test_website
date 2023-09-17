@@ -4,7 +4,7 @@ output: html_document
 date: "2023-08-23"
 weight: 15
 slug: "qc-comp-out"
-description: "Occurrence of components of the outcome OUTCOME during 2019 (and. to be dropped, during one year of lookback), per meaning, to all persons in the study population at 1/1/2019 or entering during 2019"
+description: "Occurrence of components of the outcome OUTCOME during 2019 (and to be dropped, during one year of lookback), per meaning, to all persons in the study population at 1/1/2019 or entering during 2019"
 ---
 
 <script src="/rmarkdown-libs/core-js/shim.min.js"></script>
@@ -22,7 +22,7 @@ description: "Occurrence of components of the outcome OUTCOME during 2019 (and. 
 </div>
 <div id="Metadata" class="tabcontent">
 <div id="htmlwidget-1" class="reactable html-widget " style="width:auto;height:600px;"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"medatata_name":["Name of the dataset","Content of the dataset","Unit of observation","Dataset where the list of UoOs is fully listed and with 1 record per UoO","How many observations per UoO","Variables capturing the UoO","Primary key","Parameters",null,null,null,null,null,null,null,null,null,null,null,null],"metadata_content":["QC_all_components_OUTCOME","Occurrence of components of the outcome OUTCOME during 2019 (and. to be dropped, during one year of lookback), per  meaning, to all persons in the study population at 1/1/2019 or entering during 2019","list of meanings",null,null,null,null,"OUTCOME",null,null,null,null,null,null,null,null,null,null,null,null]},"columns":[{"id":"medatata_name","name":"medatata_name","type":"character"},{"id":"metadata_content","name":"metadata_content","type":"character"}],"sortable":false,"searchable":true,"pagination":false,"highlight":true,"bordered":true,"striped":true,"style":{"maxWidth":1800},"height":"600px","dataKey":"5b6b1ad0c5055a5c2e01366c5a73c79c"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"medatata_name":["Name of the dataset","Content of the dataset","Unit of observation","Dataset where the list of UoOs is fully listed and with 1 record per UoO","How many observations per UoO","Variables capturing the UoO","Primary key","Parameters",null,null,null,null,null,null,null,null,null,null,null,null],"metadata_content":["QC_all_components_OUTCOME","Occurrence of components of the outcome OUTCOME during 2019 (and to be dropped, during one year of lookback), per  meaning, to all persons in the study population at 1/1/2019 or entering during 2019","list of meanings",null,null,null,null,"OUTCOME",null,null,null,null,null,null,null,null,null,null,null,null]},"columns":[{"id":"medatata_name","name":"medatata_name","type":"character"},{"id":"metadata_content","name":"metadata_content","type":"character"}],"sortable":false,"searchable":true,"pagination":false,"highlight":true,"bordered":true,"striped":true,"style":{"maxWidth":1800},"height":"600px","dataKey":"8df125e0cac0143f7203ba5a9aae01b7"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
 </div>
 <div id="Data Model" class="tabcontent">
 <div id="htmlwidget-2" class="reactable html-widget " style="width:auto;height:600px;"></div>

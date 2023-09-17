@@ -4,7 +4,7 @@ output: html_document
 date: "2023-08-23"
 weight: 7
 slug: "d3-td-comedi"
-description: "Contains the time-dependent evolution of the binary variable comedication. Only changes of status are recorded, with date of change. date when the condition changes; a recording of the medication lasts 90 days and the algorithm is reverted to values 0 whenever no drug records active"
+description: "Contains the time-dependent evolution of the binary variable comedication. Only changes of status are recorded, with date of when the condition changes; a recording of the medication lasts 90 days and the algorithm is reverted to values 0 whenever no drug records active"
 ---
 
 ```{r, echo = FALSE, warning = FALSE, message = FALSE}

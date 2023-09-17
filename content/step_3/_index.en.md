@@ -4,6 +4,7 @@ title: "Step 3"
 output: html_document
 weight: 8
 menuTitle: "Step 3"
+description: "Create outcomes and covariate variables on the study population"
 ---
 
 ## Step 3

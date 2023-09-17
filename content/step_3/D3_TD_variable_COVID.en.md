@@ -4,7 +4,7 @@ output: html_document
 date: "2023-08-23"
 weight: 13
 slug: "d3-td-cov"
-description: "Contains the time-dependent evolution of the categorical variable COVID. Occurrences are recorded with their level of severity. The date is the date of the first information about the infection, infromation about seeviry may accrue across time"
+description: "Contains the time-dependent evolution of the categorical variable COVID. Occurrences are recorded with their level of severity. The date is the date of the first information about the infection, information about severity may accrue across time"
 ---
 
 <script src="/rmarkdown-libs/core-js/shim.min.js"></script>
@@ -22,7 +22,7 @@ description: "Contains the time-dependent evolution of the categorical variable 
 </div>
 <div id="Metadata" class="tabcontent">
 <div id="htmlwidget-1" class="reactable html-widget " style="width:auto;height:600px;"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"medatata_name":["Name of the dataset","Content of the dataset","Unit of observation","Dataset where the list of UoOs is fully listed and with 1 record per UoO","How many observations per UoO","Variables capturing the UoO","Primary key","Parameters",null,null,null,null,null,null,null,null,null,null,null,null],"metadata_content":["D3_TD_variable_COVID","contains the time-dependent evolution of the categorical variable COVID. Occurrences are recorde with their level of severity. The date is the date of the first information about the infection, infromation about seeviry may accrue across time","A covid episode","D3_covid_episodes","1","person_id","person_id date",null,null,null,null,null,null,null,null,null,null,null,null,null]},"columns":[{"id":"medatata_name","name":"medatata_name","type":"character"},{"id":"metadata_content","name":"metadata_content","type":"character"}],"sortable":false,"searchable":true,"pagination":false,"highlight":true,"bordered":true,"striped":true,"style":{"maxWidth":1800},"height":"600px","dataKey":"67a50f4e2028bce320ba24b9d14742a2"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"medatata_name":["Name of the dataset","Content of the dataset","Unit of observation","Dataset where the list of UoOs is fully listed and with 1 record per UoO","How many observations per UoO","Variables capturing the UoO","Primary key","Parameters",null,null,null,null,null,null,null,null,null,null,null,null],"metadata_content":["D3_TD_variable_COVID","contains the time-dependent evolution of the categorical variable COVID. Occurrences are recorde with their level of severity. The date is the date of the first information about the infection, information about severity may accrue across time","A covid episode","D3_covid_episodes","1","person_id","person_id date",null,null,null,null,null,null,null,null,null,null,null,null,null]},"columns":[{"id":"medatata_name","name":"medatata_name","type":"character"},{"id":"metadata_content","name":"metadata_content","type":"character"}],"sortable":false,"searchable":true,"pagination":false,"highlight":true,"bordered":true,"striped":true,"style":{"maxWidth":1800},"height":"600px","dataKey":"2e46860ce830ee24478e4bb384056599"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
 </div>
 <div id="Data Model" class="tabcontent">
 <div id="htmlwidget-2" class="reactable html-widget " style="width:auto;height:600px;"></div>
