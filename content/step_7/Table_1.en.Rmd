@@ -4,10 +4,10 @@ output: html_document
 date: "2023-08-23"
 weight: 1
 slug: "tab-1"
-description: "Flowchart"
+name_excel: "Table 1.xlsx"
+description: "`r rmarkdown::metadata$name_excel`"
 ---
 
 ```{r, echo = FALSE, warning = FALSE, message = FALSE}
-name_excel <- "Table 1.xlsx"
-html_codebook(name_excel)
+html_codebook(rmarkdown::metadata$name_excel)
 ```

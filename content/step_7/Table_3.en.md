@@ -4,7 +4,7 @@ output: html_document
 date: "2023-08-23"
 weight: 3
 slug: "tab-3"
-description: "Classic table 1"
+description: "Characteristics at baseline"
 ---
 
 <script src="/rmarkdown-libs/core-js/shim.min.js"></script>
