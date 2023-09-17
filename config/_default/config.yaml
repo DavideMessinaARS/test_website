@@ -59,11 +59,6 @@ languages:
           name: <i class='fas fa-fw fa-syringe'></i> VAC4EU
           url: https://vac4eu.org/
           weight: 13
-        - name: <i class='fas fa-fw fa-bullhorn'></i> Credits
-          weight: 30
-        - name: <i class='fas fa-fw fa-tags'></i> Tags
-          pageRef: tags/
-          weight: 40
     params:
       landingPageName: <i class='fas fa-home'></i> Home
     title: CVM Documentation
